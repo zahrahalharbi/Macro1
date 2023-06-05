@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  MoneyGrow
+
+  Created by sara ayed albogami on 10/11/1444 AH.
+  
+*/
+"Plans" = "الخطط";
+"ChatBot" = "حادثة";
+"How much do you want to  invest from your salary?" = "كم تريد ان تستثمر من راتبك؟";
+"select" = "اختار";
+"Do you have any debt?" = "هل لديك ديون؟";
+"Do you have emergency fund?" = "هل لديك صندوق للطوارئ؟";
+"What is your goal of investing during this period?" = "ماهو هدفك من الاستثمار خلال هذة الفترة؟";
+"Show me the results" = "اظهر لي النتائج";
+"Investing" = "استثمار";
+"500 SR" = "500 ريال";
+"1000 - 2000 SR" = "1000 - 2000 ريال";
+"3000 - 4000 SR" = "3000 - 4000 ريال";
+"No" = "لا";
+"Yes" = "نعم";
+//"Save for Retirement" = "محفوظات للتقاعد";
+//"Emergency Fund" = "صندوق الطوارئ";
+//"Saving for a down payment on a house" = "ادخار لمقدم على المنزل";
+//"buying a new car" = "لشراء سيارة جديدة";
+//"Paying for a major vacation" = "دفع لقضاء عطلة كبيرة";
+//"Pay off your debts" = "لدفع الديون ";
+//"Establish your own business" = "لتأسيس عملك الخاص";
+"" = "";
+"" = "";
+
