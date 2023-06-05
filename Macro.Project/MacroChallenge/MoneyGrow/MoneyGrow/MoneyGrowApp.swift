@@ -11,7 +11,9 @@ import SwiftUI
 struct MoneyGrowApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
+            SplashView()
+            
         }
     }
 }

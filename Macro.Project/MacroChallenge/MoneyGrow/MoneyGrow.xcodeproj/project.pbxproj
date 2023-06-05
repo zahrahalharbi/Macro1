@@ -11,6 +11,7 @@
 		421091912A25CB5A00129323 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 421091932A25CB5A00129323 /* Localizable.strings */; };
 		421091BD2A2C740C00129323 /* RecommendationsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421091BC2A2C740C00129323 /* RecommendationsPage.swift */; };
 		421091BF2A2C748500129323 /* RecommendationList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421091BE2A2C748500129323 /* RecommendationList.swift */; };
+		421091C12A2DB65A00129323 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421091C02A2DB65A00129323 /* SplashView.swift */; };
 		425FDA722A23661F00B05D2B /* MoneyGrowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425FDA712A23661F00B05D2B /* MoneyGrowApp.swift */; };
 		425FDA742A23661F00B05D2B /* InvestingPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 425FDA732A23661F00B05D2B /* InvestingPage.swift */; };
 		425FDA762A23662000B05D2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 425FDA752A23662000B05D2B /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 		421091942A25CB5D00129323 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
 		421091BC2A2C740C00129323 /* RecommendationsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationsPage.swift; sourceTree = "<group>"; };
 		421091BE2A2C748500129323 /* RecommendationList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationList.swift; sourceTree = "<group>"; };
+		421091C02A2DB65A00129323 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 		425FDA6E2A23661F00B05D2B /* MoneyGrow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoneyGrow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		425FDA712A23661F00B05D2B /* MoneyGrowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyGrowApp.swift; sourceTree = "<group>"; };
 		425FDA732A23661F00B05D2B /* InvestingPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvestingPage.swift; sourceTree = "<group>"; };
@@ -68,10 +70,11 @@
 			isa = PBXGroup;
 			children = (
 				425FDA712A23661F00B05D2B /* MoneyGrowApp.swift */,
+				421091C02A2DB65A00129323 /* SplashView.swift */,
+				425FDA732A23661F00B05D2B /* InvestingPage.swift */,
 				421091BE2A2C748500129323 /* RecommendationList.swift */,
 				421091BC2A2C740C00129323 /* RecommendationsPage.swift */,
 				4210918D2A252A8800129323 /* ContentView.swift */,
-				425FDA732A23661F00B05D2B /* InvestingPage.swift */,
 				425FDA7F2A2369E500B05D2B /* DropdownMenu */,
 				425FDA752A23662000B05D2B /* Assets.xcassets */,
 				425FDA772A23662000B05D2B /* Preview Content */,
@@ -178,6 +181,7 @@
 				425FDA852A236B4500B05D2B /* DropdownMenuList.swift in Sources */,
 				425FDA812A236A1300B05D2B /* DropdownOption.swift in Sources */,
 				4210918E2A252A8800129323 /* ContentView.swift in Sources */,
+				421091C12A2DB65A00129323 /* SplashView.swift in Sources */,
 				425FDA722A23661F00B05D2B /* MoneyGrowApp.swift in Sources */,
 				425FDA832A236B1300B05D2B /* DropdownMenu.swift in Sources */,
 			);
